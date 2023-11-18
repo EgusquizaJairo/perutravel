@@ -1,9 +1,9 @@
 <h1 align="center">
-    <b>MI TUTORA</b>
+    <b>TP1</b>
     <br>
 </h1>
 
-<h3 align="center">Plataforma de enseñanza promovido por AIM y desarrollado por los alumnos del curso DP2 de Ingeniería Informática de la PUCP en el ciclo 2022-2.
+<h3 align="center">Plataforma de recomendaciones de viajes.
 </h3>
 
 ---
